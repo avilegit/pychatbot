@@ -19,9 +19,9 @@
          "responses": ["We sell chocolate chip cookies for $2!", "Cookies are on the menu!"],
          "context_set": ""
         },
-        {"tag": "hours",
-         "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
-         "responses": ["We are open 7am-4pm Monday-Friday!"],
+        {"tag": "price",
+         "patterns": ["get me the price of", "how much are", "what is the cost", "what is the price"],
+         "responses": ["Searching"],
          "context_set": ""
         }
    ]
